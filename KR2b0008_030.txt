@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 29
+#+DATE: 2015-09-10 23:16:17.781968
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB02n0054-030資治通鑑考異-卷第三十.
 <pb:KR2b0008_SBCK_030-1a>¶
 資治通鑑考異卷第三十¶
 　　　　　　　　　　　　　　　臣司馬¶
@@ -288,4 +292,3 @@
 (而卒今從江南録紀年/方始供食家人以絮塞口)¶
 資治通鑑卷第三十¶
 <pb:KR2b0008_SBCK_030-13a>¶
-

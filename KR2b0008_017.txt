@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 16
+#+DATE: 2015-09-10 23:16:17.224787
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB02n0054-017資治通鑑考異-卷第十七.
 <pb:KR2b0008_SBCK_017-1a>¶
 資治通鑑考異卷第十七¶
 　　臣司馬　光奉　勑編集¶
@@ -229,4 +233,3 @@
 <pb:KR2b0008_SBCK_017-10b>¶
 ¶
 資治通鑑考異卷第十七¶
-

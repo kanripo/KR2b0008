@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 26
+#+DATE: 2015-09-10 23:16:17.654470
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB02n0054-027資治通鑑考異-卷第二十七.
 <pb:KR2b0008_SBCK_027-1a>¶
 資治通鑑考異卷第二十七¶
 　　臣　司馬　光　奉¶
@@ -365,4 +369,3 @@
 (月今從新舊唐紀薛史梁紀及編遺錄/居正五代史梁紀在閏月後唐紀在十二)¶
 資治通鑑考異卷第二十七¶
 <pb:KR2b0008_SBCK_027-16b>¶
-

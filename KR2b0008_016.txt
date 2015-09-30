@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 15
+#+DATE: 2015-09-10 23:16:17.181250
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB02n0054-016資治通鑑考異-卷第十六.
 <pb:KR2b0008_SBCK_016-1a>¶
 資治通鑑考異卷第十六¶
 　司馬　光奉　勑編集¶
@@ -259,4 +263,3 @@
 (聞其實令諶不死也/猶存蓋宗元得於傳)¶
 資治通鑑考異卷第十六¶
 <pb:KR2b0008_SBCK_016-12a>¶
-

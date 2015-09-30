@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 7
+#+DATE: 2015-09-10 23:16:16.827781
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB02n0054-008資治通鑑考異-卷第八.
 <pb:KR2b0008_SBCK_008-1a>¶
 資治通鑑考異卷第八¶
 　司馬光奉　勑編集¶
@@ -393,4 +397,3 @@
 李淵遣詹俊李仲衮徇巴蜀(使慰諭巴蜀實録在十二/創業注云十一月甲子遣)¶
 (所云者即俊等邪爲别使也今從實録/月甲辰唐曆在十二月丙午未知創業注)¶
 資治通鑑考異卷第八¶
-

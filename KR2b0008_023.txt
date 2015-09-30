@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 22
+#+DATE: 2015-09-10 23:16:17.480347
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB02n0054-023資治通鑑考異-卷第二十三.
 <pb:KR2b0008_SBCK_023-1a>¶
 (到越則釋去公且行有命矣既至式登南樓俟之曰裘甫何/械手以木曳頸以組甫曰吾既已降何用是爲左右曰法也)¶
 (于長安東市初甫之入剡也雖已累敗向使城守朞嵗未可/罪罪皆劉睢輩命三斬之睢顧謂甫曰君竟拜金吾乎斬甫)¶
@@ -297,4 +301,3 @@
 (前舊紀傳皆誤今從實録/亦云卒于位為嶺南節度在)¶
 資治通鑑考異卷第二十三¶
 <pb:KR2b0008_SBCK_023-14b>¶
-

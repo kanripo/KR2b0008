@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 12
+#+DATE: 2015-09-10 23:16:17.047828
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB02n0054-013資治通鑑考異-卷第十三.
 <pb:KR2b0008_SBCK_013-1a>¶
 資治通鑑考異卷第十三¶
 臣司馬光奉　勑編集¶
@@ -289,4 +293,3 @@
 (有之物或者豹字誤為豽字耳事既可疑今不取/豽兩字别本必有之按説文豽獸名無前足此非常)¶
 十二月李嗣業破吐蕃(今從實錄及封常清傳/舊嗣業傳云天寶七載)¶
 資治通鑑考異卷第十三¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-10 23:16:16.533503
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB02n0054-001資治通鑑考異-卷第一.
 <pb:KR2b0008_SBCK_001-1a>¶
 資治通鑑考異卷第一¶
 　　臣司馬光奉　勑編集¶
@@ -361,4 +365,3 @@
 九月庚申地震上問李尋(問尋按公鄉表&KR0019;喜為衞/尋傳云使侍中衞尉&KR0019;喜)¶
 (在九月當是時喜已不為衞尉矣/尉二月遷右將軍十一月罷地震)¶
 資治通鑑考異卷第一¶
-

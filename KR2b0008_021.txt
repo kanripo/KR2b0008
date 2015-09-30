@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 20
+#+DATE: 2015-09-10 23:16:17.399691
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB02n0054-021資治通鑑考異-卷第二十一.
 <pb:KR2b0008_SBCK_021-1a>¶
 資治通鑑考異卷第二十一¶
 　　　　　　臣司馬　光奉　勑編集¶
@@ -228,4 +232,3 @@
 洛門川討擊使論恐熱(吐蕃國法不呼本姓但土族/補國史曰恐熱如末名農力)¶
 (號也熱者例皆言之如中華呼郎/則曰論官族則曰尚其中字即蕃)¶
 資治通鑑考異卷第二十一¶
-

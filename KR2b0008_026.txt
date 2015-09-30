@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 25
+#+DATE: 2015-09-10 23:16:17.605344
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB02n0054-026資治通鑑考異-卷第二十六.
 <pb:KR2b0008_SBCK_026-1a>¶
 資治通鑑考異卷第二十六¶
 　　　　　　司馬　光　奉　勑編集¶
@@ -390,4 +394,3 @@
 (顧問之間來撓澄清之化又貶渠州司馬制云爭臣條奏憲/司東都制云包藏莫顧於朝綱進見不由於相府復云猶希)¶
 (姦之計与此稍異今從實錄/府極言指陳負囯之謀忿嫉崇)¶
 資治通鑑考異卷第二十六¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 9
+#+DATE: 2015-09-10 23:16:16.923169
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB02n0054-010資治通鑑考異-卷第十.
 <pb:KR2b0008_SBCK_010-1a>¶
 資治通鑑考異卷第十¶
 　馬光奉　勑編集¶
@@ -297,4 +301,3 @@
 (鳳中務挺斬平之蓋誤也今從實録/云延州稽胡又云自號月光王又云儀)¶
 資治通鑑考異卷第十¶
 　　　承事郎太學愽士臣李　敦義　校¶
-

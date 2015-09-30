@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 23
+#+DATE: 2015-09-10 23:16:17.519478
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB02n0054-024資治通鑑考異-卷第二十四.
 <pb:KR2b0008_SBCK_024-1a>¶
 資治通鑑考異卷第二十四¶
 　　臣司馬　光奉　勑編集¶
@@ -454,4 +458,3 @@
 (諸書皆無文祐為昭義節度使事況光啓中澤潞已為李克/昭義節度使令討方立自蜀至澤州與方立戰敗歿於陣按)¶
 (與方立戰也其事恐虛今不取/脩所據文祐來當與克脩戰不得)¶
 資治通鑑考異卷第二十四¶
-

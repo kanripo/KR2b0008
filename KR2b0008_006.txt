@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 5
+#+DATE: 2015-09-10 23:16:16.744422
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB02n0054-006資治通鑑考異-卷第六.
 <pb:KR2b0008_SBCK_006-1a>¶
 資治通鑑考異卷第六¶
 　　臣司馬光奉勑編集¶
@@ -283,4 +287,3 @@
 十八年二月魏髙湖子謐(北史作謐今從之/李百藥北齊書作謚)¶
 髙歡曰宿衞焚大臣之第(嘗爲領軍故但云大臣也/北齊書云領軍張彞按彞未)¶
 資治通鑑考異卷第六¶
-

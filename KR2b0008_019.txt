@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 18
+#+DATE: 2015-09-10 23:16:17.313906
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 19
+#+PROPERTY: FILE SB02n0054-019資治通鑑考異-卷第十九.
 <pb:KR2b0008_SBCK_019-1a>¶
 資治通鑑考異卷第十九¶
 　　　　　臣司馬　光奉　勑編集¶
@@ -342,4 +346,3 @@
 (不如新傳所言今不取/絳之&KR0125;不用兵而魏博平)¶
 資治通鑑考異卷第十九¶
 <pb:KR2b0008_SBCK_019-15b>¶
-

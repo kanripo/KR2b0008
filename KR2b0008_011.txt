@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 10
+#+DATE: 2015-09-10 23:16:16.965275
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB02n0054-011資治通鑑考異-卷第十一.
 <pb:KR2b0008_SBCK_011-1a>¶
 資治通鑑考異卷第十一¶
 　司馬光奉　勑編集¶
@@ -335,4 +339,3 @@
 (當是璟執正其罪而神慶寛之耳非璟出使後神慶始鞫之/免時璟在都不出使也實録云令韋承慶崔神慶與璟推鞫)¶
 (相違今從御史臺記/也舊宋璟易之傳自)¶
 資治通鑑考異卷第十一¶
-

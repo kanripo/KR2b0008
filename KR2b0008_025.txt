@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 24
+#+DATE: 2015-09-10 23:16:17.563231
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB02n0054-025資治通鑑考異-卷第二十五.
 <pb:KR2b0008_SBCK_025-1a>¶
 資治通鑑考異第二十五¶
 　　　　臣司馬　光奉　勑編集¶
@@ -333,4 +337,3 @@
 (十囯紀年旡日但云四月今從舊紀紀年/妖乱志云四月癸未朔甲申儒陷&KR0045;州吳錄)¶
 資治通鑑考異卷第二十五¶
 <pb:KR2b0008_SBCK_025-15a>¶
-

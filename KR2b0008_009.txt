@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 資治通鑑考異
-#+DATE: 2015-09-23 09:43:30
-#+PROPERTY: JUAN 8
+#+DATE: 2015-09-10 23:16:16.873851
+#+PROPERTY: ID KR2b0008
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB02n0054-009資治通鑑考異-卷第九.
 <pb:KR2b0008_SBCK_009-1a>¶
 資治通鑑考異卷第九¶
 　司馬光奉　勑編集¶
@@ -332,4 +336,3 @@
 (爭在作少師前今從之/叔逹忿爭免按實録忿)¶
 資治通鑑考異卷第九¶
 <pb:KR2b0008_SBCK_009-16a>¶
-
